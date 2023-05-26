@@ -1,4 +1,4 @@
-- **👋 Seja Bem vindo, Eu sou o João.** 
+ ### **Seja Bem vindo, Eu sou o João 👋.** 
 
 - 👀 Desejo trabalhar como programador júnior.
 
