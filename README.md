@@ -2,7 +2,7 @@
 
 - 👀 Desejo trabalhar como programador júnior.
 
-- 🌱 Estudante para desenvolvimento Web.
+- 🌱 Estudante para desenvolvimento Front-End.
 
    <a href="https://www.linkedin.com/in/jo%C3%A3o-paulo-de-souza-658190151/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
