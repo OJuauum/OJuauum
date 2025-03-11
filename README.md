@@ -1,6 +1,6 @@
  ### **Seja Bem vindo, Eu sou o João 👋.** 
 
-💻 Desenvolvedor | JavaScript | C# | .NET | SQL | HTML & CSS | MySQL | PostgreSQL
+💻 Desenvolvedor | Java | C# | .NET | JavaScript | SQL | HTML & CSS | MySQL | PostgreSQL |
 
 Sou João Paulo, um desenvolvedor apaixonado por tecnologia e resolução de problemas, sempre buscando transformar ideias em soluções eficientes e inovadoras. Minha experiência abrange desenvolvimento full stack, com foco em JavaScript, C# e .NET, além de ampla experiência em bancos de dados SQL, incluindo MySQL e PostgreSQL.
 
