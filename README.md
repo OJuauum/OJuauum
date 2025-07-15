@@ -1,30 +1,92 @@
- ### **Seja Bem vindo, Eu sou o João 👋.** 
+<h2 align="left">Seja Bem vindo, Eu sou o João 👋.</h2>
 
-💻 Desenvolvedor | Java | C# | .NET | JavaScript | SQL | HTML & CSS | MySQL | PostgreSQL |
+###
 
-Sou João Paulo, um desenvolvedor apaixonado por tecnologia e resolução de problemas, sempre buscando transformar ideias em soluções eficientes e inovadoras. Minha experiência abrange desenvolvimento full stack, com foco em JavaScript, C# e .NET, além de ampla experiência em bancos de dados SQL, incluindo MySQL e PostgreSQL.
+<p align="left">Sobre mim 👨‍💻</p>
 
-🚀 Habilidades e Experiência
-✔ Desenvolvimento backend e frontend utilizando JavaScript, C# e .NET
-✔ Modelagem e otimização de bancos de dados SQL (MySQL e PostgreSQL)
-✔ Construção de interfaces responsivas com HTML5 e CSS3
-✔ Controle de versão com Git e GitHub
-✔ Aplicação de boas práticas de desenvolvimento para código limpo e escalável
+###
 
-🎯 Missão Profissional
-Estou sempre em busca de desafios que me permitam crescer e contribuir para o avanço tecnológico. Acredito no aprendizado contínuo e na colaboração para criar soluções eficientes e impactantes.
+<p align="left">👋 Olá! Sou João Paulo, desenvolvedor full stack com experiência em JavaScript, C#, .NET, SQL (MySQL e PostgreSQL), HTML, CSS e APIs.<br>Tenho paixão por resolver problemas com código limpo, otimizar bancos de dados e criar integrações eficientes.<br>Por aqui você vai encontrar projetos que refletem minha curiosidade, aprendizado contínuo e foco em entregar soluções com propósito. 🚀</p>
 
-🌐 Vamos conectar?
-Se você busca um profissional comprometido, apaixonado por tecnologia e sempre pronto para aprender e inovar, estou aberto a novas oportunidades e parcerias!
+###
 
-   <a href="https://www.linkedin.com/in/jo%C3%A3o-paulo-de-souza-658190151/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<h3 align="left">Linguagens - Frameworks - Tecnologias - Ferramentas ✏️</h3>
 
-- 📫 Caso deseja entrar em contato comigo, mande um E-Mail para:
+###
 
-   [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaopaulodesouza6@gmail.com)
+<p align="left">Frontend:</p>
 
- ![snake gif](https://github.com/victordamico/victordamico/blob/output/github-contribution-grid-snake.svg)
-<!---
-OJuauum/OJuauum is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+</div>
+
+###
+
+<p align="left">Backend:</p>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+</div>
+
+###
+
+<p align="left">Banco de Dados:</p>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
+</div>
+
+###
+
+<p align="left">Ferramentas:</p>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuget/nuget-original.svg" height="40" alt="nuget logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo"  />
+</div>
+
+###
+
+<p align="left">Conecte-se comigo 📫</p>
+
+###
+
+<div align="left">
+  <a href="joaopaulodesouza6@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/ojuauum/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
